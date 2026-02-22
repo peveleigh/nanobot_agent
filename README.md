@@ -1,6 +1,6 @@
 # Nanobot Conversation Agent
 
-This custom component integrates a Nanobot conversation agent with Home Assistant, allowing you to use your Nanobot instance as a conversational AI backend.
+This custom component integrates a Nanobot conversation agent with Home Assistant, allowing you to use your Nanobot instance as a conversational AI backend. This only works with a forked version of Nanobot found at [peveleigh/nanobot](https://github.com/peveleigh/nanobot).
 
 ## Features
 
